@@ -26,10 +26,10 @@ Currently, I’m deepening my knowledge in **AWS (Amazon Web Services)** and **A
 ## 🛠️ Technologies I Use
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Flutter, ASP.NET Core
 - **Databases:** SQLServer, MySQL
 - **Tools:** Git, GitHub, Docker  
-- **Currently learning:** AWS, Artificial Intelligence, Terraform  
+- **Currently learning:** AWS, AI, Docker/Kubernetes, Terraform  
 
 ---
 
